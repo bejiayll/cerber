@@ -1,2 +1,2 @@
 # cerber
-Save passwords vault
+Internal (V)CTO Auth service
